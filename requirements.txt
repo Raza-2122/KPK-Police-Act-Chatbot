@@ -4,3 +4,4 @@ langchain-google-genai
 langchain-chroma
 pypdf2
 textwrap3
+git+https://github.com/Raza-2122/KPK-Police-Act-Chatbot.git
