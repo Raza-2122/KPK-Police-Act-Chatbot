@@ -1,0 +1,6 @@
+streamlit
+langchain
+langchain-google-genai
+langchain-chroma
+pypdf2
+textwrap3
